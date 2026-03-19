@@ -1,1 +1,1 @@
-print(" subida con otro correo")
+print(" con otro correo")
